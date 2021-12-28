@@ -1,4 +1,4 @@
- -- CRUD APP that allows to do operations on texts (French, English, Arabic?)--
+ -- CRUD APP that allows to do operations on texts (French, English, Arabic)--
 
 Endpoints:<br/>
 ● POST /text/<br/>

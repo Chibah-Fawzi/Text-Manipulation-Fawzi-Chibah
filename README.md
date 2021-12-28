@@ -3,7 +3,7 @@
 Endpoints:
 ● POST /text/
 Upload and store text with unique Id to database (you can simulate a database using json
-files, or use standalone mongoDB container)
+files, or use standalone mongoDB container)<br/>
 ● GET /text/
 Fetch list of text with the support of pagination
 ● PUT /text/:textId

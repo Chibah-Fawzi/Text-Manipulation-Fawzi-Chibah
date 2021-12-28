@@ -21,8 +21,10 @@ NB:<br/>
 ● Each endpoint has its own test.<br/><br/>
 
 
-To start the server use : <code>node index.js</code>
 
+Start the server : <code>node index.js</code>
+<br/><br/>
+Tech Stack: <br/>
 Server : NodeJs with Express.<br/>
 Testing : Jest - Supertest
 
